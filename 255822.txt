@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-słowo test
-=======
-słowo testowe test branch
->>>>>>> 75670c4 (po zmianach)
+słowo testowe test branche
+
